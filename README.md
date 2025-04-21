@@ -1,0 +1,2 @@
+A dynamic restaurant website built with JavaScript, featuring menu display, location information, and contact functionality. 
+This project demonstrates DOM manipulation, module bundling with webpack, and responsive design principles.
